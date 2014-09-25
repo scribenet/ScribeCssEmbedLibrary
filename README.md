@@ -60,7 +60,7 @@ If you use [Assetic](https://github.com/kriswallsmith/assetic) for asset managem
 
 Within your Symfony project, locate your configuration file (generally located `/at/your/project/root/app/config/config.yml`) and locate the `assetic` section. Within this section you can define filters that can be applied to any assets managed through Assetic. Here is a short snippet of the Symfony Assetic configuration to get you started:
 
-```json
+```yaml
 assetic:
   filters:
     cssembed:
