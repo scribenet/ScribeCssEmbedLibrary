@@ -1,0 +1,21 @@
+{
+    "name"        : "scribe/cssembed-library",
+    "description" : "This is a direct fork of 'nzakas/cssembed', a project which hasn't been touched by its author for over three years. Welcome to its revival.",
+    "keywords"    : ["scribe", "java", "css", "blob", "dataurls", "embedd"],
+    "type"        : "library",
+    "homepage"    : "https://github.com/scribenet/ScribeCssEmbedLibrary",
+    "license"     : "MIT",
+    "authors"     : [
+        {
+            "name"  : "Rob Frawley 2nd",
+            "role"  : "Contributor",
+            "email" : "opencode@scribenet.com"
+        },
+        {
+            "name" : "Nicholas C. Zakas",
+            "role" : "Author"
+        }
+    ],
+    "target-dir": "Scribe/CssEmbedLibrary",
+    "bin"       : ["dist/scribe-cssembed"]
+}
