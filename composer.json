@@ -16,6 +16,5 @@
             "role" : "Author"
         }
     ],
-    "target-dir": "Scribe/CssEmbedLibrary",
     "bin"       : ["dist/scribe-cssembed"]
 }
